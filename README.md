@@ -5,9 +5,9 @@ The goal of this repo is try to give an example about how to customize the multi
 
 The repo itself does not include any raw data, the readers need to save their images using the heirarchical structure as below:
 
-Level 0: view1, view2, ..., viewM
-Level 1: class1, class2, ..., classC
-Level 2: 1.bmp, 2.bmp, ..., N.bmp
+Level 0: view1, view2, ..., viewM  
+Level 1: class1, class2, ..., classC  
+Level 2: 1.bmp, 2.bmp, ..., N.bmp  
 
 Namely, there are C subfolders in each folder "view#", and there are N .bmp files in each subfolder "class#"
 

@@ -18,6 +18,7 @@ Namely, there are C subfolders in each folder "view#", and there are N .bmp file
 
 **TGARSS2018_main**: The main file for training the network and obtain the validation results.
 
+*Pytorch version*: 1.1.0
 
 
 
